@@ -64,4 +64,4 @@ Successfully delivered a secure, cost-effective network solution that:
 
 ---
 
-*This project showcases practical application of enterprise networking concepts learned through academic study and demonstrates readiness for network engineering roles in corporate environments.*
+
